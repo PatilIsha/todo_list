@@ -1,2 +1,2 @@
-# todo_list
-This is  todo list for adding task in the menu and delete it.Hope this project is heplful for you!!!
+# todo-list
+ Simple todo list web app to save and manage todos, and save them to the local storage The web app has a beatifull UI design that is make it dun adding todos 
